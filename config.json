@@ -1,0 +1,14 @@
+{
+  "PREFIX": "m",
+  "TOKEN": "MTA1MTU4MDg1NTE5OTQ3Mzc1NQ.G08fJL.4DsCGEppg5jPw9wVRBwBkYTLOFVs2-AJYnM4H4",
+  "OWNER_ID": "627241297878450218",
+  "CLIENT_ID": "1051580855199473755",
+  "GUILD_ID": "790542074420264980",
+  "NODES": [
+    {
+      "host": "nonssl.freelavalink.ga",
+      "port": 80,
+      "password": "www.freelavalink.ga"
+    }
+  ]
+}
